@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "nodemon",
-    "start": "ts-node ./src/index.ts",
+    "start": "ts-node ./src/server.ts",
     "lint": "eslint src/*.ts*",
     "format": "prettier . --write",
     "build": "webpack && node ./build/server.js"
@@ -13,6 +13,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.19.2"
   },
   "devDependencies": {
