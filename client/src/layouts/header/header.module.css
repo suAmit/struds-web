@@ -1,0 +1,24 @@
+.header {
+  display: flex;
+  position: fixed;
+  align-items: center;
+  width: 100%;
+  height: 56px;
+  top: 0;
+  left: 0;
+  background: var(--primary-color);
+  z-index: 100;
+}
+
+.headerContainer {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+
+.headerTitle {
+  font-size: 30px;
+  font-weight: 600;
+}

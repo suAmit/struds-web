@@ -1,0 +1,40 @@
+.noteCard {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  gap: 4px;
+}
+
+.arrow,
+.more,
+.add {
+  display: inline;
+}
+
+.add {
+  margin-right: 7px;
+  margin-left: 3px;
+}
+
+.noteTitle {
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+  width: 100%;
+}
+
+.subnote {
+  overflow: hidden;
+}
+
+.subnoteExpanded {
+  transition: all 0.3s;
+  margin-top: 0;
+}
+
+.subnoteCollapsed {
+  transition: all 0.3s;
+  margin-top: -100%;
+  border: 2px solid var(--secondary-color);
+}

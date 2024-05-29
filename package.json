@@ -1,0 +1,16 @@
+{
+  "name": "struds-web",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "client": "yarn --cwd ./client dev",
+    "server": "yarn --cwd ./server dev",
+    "start": "concurrently -n \"CLIENT,SERVER\" -c \"red,blue\" -p \"[{name}]\" \"npm run client\" \"npm run server\""
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}

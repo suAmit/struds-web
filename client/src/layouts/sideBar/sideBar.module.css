@@ -1,0 +1,22 @@
+.sideBar,
+.sideBarOuter {
+  position: fixed;
+  height: 100vh;
+  top: 0;
+  right: 0;
+  z-index: 100;
+}
+
+.sideBar {
+  display: grid;
+  width: 80vw;
+  background: var(--primary-color);
+}
+.sideBarOuter {
+  width: 100vw;
+  background: rgba(128, 128, 128, 0.4);
+}
+
+.noteBook {
+  flex: 1fr;
+}

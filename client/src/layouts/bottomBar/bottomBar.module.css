@@ -1,0 +1,25 @@
+.bottomBar {
+  display: flex;
+  width: 100%;
+  height: 56px;
+  bottom: 0;
+  position: fixed;
+  align-items: center;
+  background: var(--primary-color);
+}
+
+.bottomContainer {
+  display: flex;
+  width: 100%;
+  justify-content: space-around;
+}
+
+.iconDiv {
+  display: grid;
+}
+
+.icon {
+  display: grid;
+  align-content: center;
+  justify-content: center;
+}

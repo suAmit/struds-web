@@ -1,0 +1,17 @@
+.recentList {
+  display: flex;
+  overflow-x: scroll;
+  padding: 10px 8px 10px 8px;
+  gap: 10px;
+}
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+.recentList::-webkit-scrollbar {
+  display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+.recentList {
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}

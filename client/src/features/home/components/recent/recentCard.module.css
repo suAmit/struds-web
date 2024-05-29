@@ -1,0 +1,39 @@
+.recentCard {
+  width: 120px;
+  height: 120px;
+  border-radius: 15px;
+  position: relative;
+  border: 1px solid var(--border-color);
+}
+
+.recentCover {
+  height: 60px;
+  width: 120px;
+  border-top-right-radius: 14px;
+  border-top-left-radius: 14px;
+}
+
+.recentIcon {
+  display: flex;
+  font-size: 26px;
+  height: 26px;
+  width: 26px;
+  align-content: center;
+  justify-content: center;
+  position: absolute;
+  z-index: 1;
+  top: 50%;
+  left: 5%;
+  transform: translateY(-50%);
+}
+
+.recentTitle {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  word-wrap: break-word;
+  text-overflow: ellipsis;
+  margin-top: 10px;
+  padding: 6%;
+}

@@ -1,0 +1,218 @@
+{
+  "1": {
+    "id": "1",
+    "created_time": "17-05-2024",
+    "last_update_time": "17-05-2024",
+    "created_by": "user1",
+    "last_edited_by": "user1",
+    "name": "notebook",
+    "icon": {
+      "emoji": "🤟"
+    },
+    "notes": [
+      {
+        "index": 1,
+        "id": "1",
+        "last_update_time": "17-05-2024",
+        "name": "Welcome to sturds ",
+        "cover": { "colorhex": "#acd123" },
+        "icon": {
+          "url": "https://images.ctfassets.net/yadj1kx9rmg0/wtrHxeu3zEoEce2MokCSi/cf6f68efdcf625fdc060607df0f3baef/quwowooybuqbl6ntboz3.jpg"
+        },
+        "archived": false
+      },
+      {
+        "index": 2,
+        "id": "2",
+        "last_update_time": "17-05-2024",
+        "name": "Welcome to sturds 2",
+        "cover": { "colorhex": "#acd123" },
+        "icon": {
+          "emoji": "🤟"
+        },
+        "archived": false
+      },
+      {
+        "index": 3,
+        "id": "3",
+        "last_update_time": "17-05-2024",
+        "name": "Welcome to sturds 3",
+        "cover": { "colorhex": "#acd123" },
+        "icon": {
+          "emoji": "🤟"
+        },
+        "archived": false,
+        "subnotes": [
+          {
+            "index": 1,
+            "id": "6",
+            "last_update_time": "17-05-2024",
+            "name": "Welcome to sturds 6",
+            "cover": { "colorhex": "#acd123" },
+            "icon": {
+              "emoji": "🤟"
+            },
+            "archived": false
+          },
+          {
+            "index": 2,
+            "id": "7",
+            "last_update_time": "17-05-2024",
+            "name": "Welcome to sturds 7",
+            "cover": { "colorhex": "#acd123" },
+            "icon": {
+              "emoji": "🤟"
+            },
+            "archived": false
+          },
+          {
+            "index": 3,
+            "id": "8",
+            "last_update_time": "17-05-2024",
+            "name": "Welcome to sturds 8",
+            "cover": { "colorhex": "#acd123" },
+            "icon": {
+              "emoji": "🤟"
+            },
+            "archived": false,
+            "subnotes": [
+              {
+                "index": 1,
+                "id": "9",
+                "last_update_time": "17-05-2024",
+                "name": "Welcome to sturds 9",
+                "cover": { "colorhex": "#acd123" },
+                "icon": {
+                  "emoji": "🤟"
+                },
+                "archived": false,
+                "subnotes": [
+                  {
+                    "index": 1,
+                    "id": "10",
+                    "last_update_time": "17-05-2024",
+                    "name": "Welcome to sturds 10",
+                    "cover": { "colorhex": "#acd123" },
+                    "icon": {
+                      "emoji": "🤟"
+                    },
+                    "archived": false
+                  },
+                  {
+                    "index": 2,
+                    "id": "11",
+                    "last_update_time": "17-05-2024",
+                    "name": "Welcome to sturds 11",
+                    "cover": { "colorhex": "#acd123" },
+                    "icon": {
+                      "emoji": "🤟"
+                    },
+                    "archived": false
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "index": 4,
+        "id": "4",
+        "last_update_time": "17-05-2024",
+        "name": "Welcome to sturds 4",
+        "cover": { "colorhex": "#acd123" },
+        "icon": {
+          "emoji": "🤟"
+        },
+        "archived": false,
+        "subnotes": [
+          {
+            "index": 1,
+            "id": "12",
+            "last_update_time": "17-05-2024",
+            "name": "Welcome to sturds 12",
+            "cover": { "colorhex": "#acd123" },
+            "icon": {
+              "emoji": "🤟"
+            },
+            "archived": false
+          }
+        ]
+      },
+      {
+        "index": 5,
+        "id": "5",
+        "last_update_time": "17-05-2024",
+        "name": "Welcome to sturds 5",
+        "cover": { "colorhex": "#acd123" },
+        "icon": {
+          "emoji": "🤟"
+        },
+        "archived": false
+      },
+      {
+        "index": 6,
+        "id": "13",
+        "last_update_time": "17-05-2024",
+        "name": "Welcome to sturds 13",
+        "cover": { "colorhex": "#acd123" },
+        "icon": {
+          "emoji": "🤟"
+        },
+        "archived": false
+      }
+    ]
+  },
+  "2": {
+    "id": "1",
+    "created_time": "17-05-2024",
+    "last_update_time": "17-05-2024",
+    "created_by": "user1",
+    "last_edited_by": "user1",
+    "name": "notebook",
+    "notes": [
+      {
+        "index": 1,
+        "id": "1",
+        "last_update_time": "17-05-2024",
+        "name": "Welcome to sturds ",
+        "cover": { "colorhex": "#acd123" },
+        "icon": {
+          "emoji": "🤟"
+        },
+        "archived": false
+      },
+      {
+        "index": 2,
+        "id": "2",
+        "last_update_time": "17-05-2024",
+        "name": "Welcome to sturds 2",
+        "cover": { "colorhex": "#acd123" },
+        "icon": {
+          "emoji": "🤟"
+        },
+        "archived": false
+      },
+      {
+        "index": 3,
+        "id": "3",
+        "last_update_time": "17-05-2024",
+        "name": "Welcome to sturds 3",
+        "archived": false,
+        "subnotes": [
+          {
+            "index": 1,
+            "id": "6",
+            "last_update_time": "17-05-2024",
+            "name": "Welcome to sturds 6",
+            "cover": { "colorhex": "#acd123" },
+            "icon": {
+              "emoji": "🤟"
+            },
+            "archived": false
+          }
+        ]
+      }
+    ]
+  }
+}
